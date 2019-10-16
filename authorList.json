@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 301940,
+      "slug": "ef4f2422125f",
+      "nickname": "卢璐说",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/301940/189d69dd-af7c-4290-9e2c-89e98acf3603.jpg",
+      "total_likes_count": 26970,
+      "total_wordage": 1219098,
+      "is_following_user": false
+    },
+    {
+      "id": 7416466,
+      "slug": "e7dd0b3c7b70",
+      "nickname": "老沈1",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/7416466/fc1a1a0d-e3c7-4bca-9720-028c5c9914f3.jpg",
+      "total_likes_count": 700,
+      "total_wordage": 133741,
+      "is_following_user": false
+    },
+    {
+      "id": 14715425,
+      "slug": "c5a2ce84f60b",
+      "nickname": "简书钻首席小管家",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/14715425/e0668349-8c75-43db-8a9d-c388e5f00d0d.jpg",
+      "total_likes_count": 147009,
+      "total_wordage": 190175,
+      "is_following_user": false
+    },
+    {
+      "id": 6305091,
+      "slug": "4ce7aca123a3",
+      "nickname": "只有一半影子的人",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/6305091/dc5b863a-26fc-47df-af32-18177f6cc9ff.jpg",
+      "total_likes_count": 1436,
+      "total_wordage": 257399,
+      "is_following_user": false
+    },
+    {
+      "id": 13213889,
+      "slug": "080bb4eac1c9",
+      "nickname": "无限猴子",
+      "avatar_source": "http://upload.jianshu.io/users/upload_avatars/13213889/7314c5cc-ca7f-4542-b914-2c8dffaf324d.jpg",
+      "total_likes_count": 2207,
+      "total_wordage": 410981,
+      "is_following_user": false
+    }
+  ],
+  "total_count": 39903
+}
